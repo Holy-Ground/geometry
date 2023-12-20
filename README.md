@@ -1,3 +1,3 @@
-# cpp_project_template
+# holyground_geometry
 
-The template for cpp projects
+The library for geometry
